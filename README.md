@@ -16,9 +16,6 @@ Please fill out this anonymous survey for some initial feedback:
 
 https://www.surveymonkey.com/r/T3529PT
 
-## Roll Call
-
-https://forms.gle/sNabLVSm6G7LeqMY6
 
 ## Recommended Readings
 
