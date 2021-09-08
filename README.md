@@ -16,6 +16,10 @@ Please fill out this anonymous survey for some initial feedback:
 
 https://www.surveymonkey.com/r/T3529PT
 
+## Roll Call
+
+https://forms.gle/sNabLVSm6G7LeqMY6
+
 ## Recommended Readings
 
 - [From Zero to Python](https://musa-550-fall-2021.github.io/guides/zero-to-python)
